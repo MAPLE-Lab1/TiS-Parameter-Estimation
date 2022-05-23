@@ -12,3 +12,4 @@ A demo code estimating two parameters using TiS model is provided in MATLAB 2020
 
 A similar demo was also created in python where TiS model simulation was performed using PyBaMM package (https://www.pybamm.org/).
 
+For further information please refer to the Code Instruction pdf's uploaded.
